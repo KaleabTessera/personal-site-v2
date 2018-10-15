@@ -22,7 +22,7 @@ const Resume = () => (
   <Main>
     <Helmet title="Resume" />
     <article className="post" id="resume">
-      <div>
+      <header>
         <div className="title">
           <h2>
             <Link to="/resume">Resume</Link>
@@ -35,7 +35,7 @@ const Resume = () => (
             ))}
           </div>
         </div>
-      </div>
+      </header>
       <Education data={degrees} />
       <Experience data={positions} />
       <Skills skills={skills} categories={categories} />

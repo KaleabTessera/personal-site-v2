@@ -17,14 +17,14 @@ const About = () => (
   <Main>
     <Helmet title="About" />
     <article className="post" id="about">
-      <div>
+      <header>
         <div className="title">
           <h2>
             <Link to="/about">About Me</Link>
           </h2>
           <p>(in about {count} words)</p>
         </div>
-      </div>
+      </header>
       <ReactMarkdown
         source={markdown}
         renderers={{

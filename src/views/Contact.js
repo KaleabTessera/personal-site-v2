@@ -76,13 +76,13 @@ class Contact extends Component {
       <Main>
         <Helmet title="Contact" />
         <article className="post" id="contact">
-          <div>
+          <header>
             <div className="title">
               <h2>
                 <Link to="/contact">Contact</Link>
               </h2>
             </div>
-          </div>
+          </header>
           <div className="email-at">
             <p>Feel free to get in touch. You can email me at: </p>
             <div
