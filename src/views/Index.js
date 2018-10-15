@@ -4,9 +4,6 @@ import { Link } from "react-router-dom";
 import Main from "../layouts/Main";
 import header from "react-router-dom";
 
-const style = {
-  height: 2000 + "px !important" // 20px !important
-};
 const Index = () => (
   <Main>
     <article className="post" id="index">
@@ -26,11 +23,11 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, or{" "}
         <Link to="/contact">contact</Link> me.
       </p>
-      <p>
+      {/* <p>
         {" "}
         Source available{" "}
         <a href="https://github.com/mldangelo/mldangelo">here</a>.
-      </p>
+      </p> */}
     </article>
   </Main>
 );
