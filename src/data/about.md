@@ -1,9 +1,13 @@
 ### Intro
 
-Hi, my name is Kale-ab. I am a Computer Scientist, who has experience as a Software Engineer and has now moved into the Machine learning and AI space. I was born in Addis Ababa, Ethiopia and moved to South Africa when I was 4 years old and I have been living in South Africa ever since.
+Hi, my name is Kale-ab. I am a Computer Scientist, who has experience as a Software Engineer and has now moved into the Machine learning and AI space.
 <br /> <br/>
 I am particulary interested in using my toolbox of programming, machine learning knowledge and analytical skills to solve really difficult problems. Preferebly problems related to social good and have a positive impact on people's lives.
 <br /><br />
+
+### Background
+
+I was born in Addis Ababa, Ethiopia and moved to South Africa when I was 4 years old and I have been living in South Africa ever since.
 
 ### Research Interests
 
