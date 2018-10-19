@@ -8,6 +8,7 @@ I am particulary interested in using my toolbox of programming, machine learning
 ### Background
 
 I was born in Addis Ababa, Ethiopia and moved to South Africa when I was 4 years old and I have been living in South Africa ever since.
+<br/> <br/>
 
 ### Research Interests
 
