@@ -19,7 +19,7 @@ const Nav = () => (
       </header>
     </section>
 
-    <section className="blurb">
+    {/* <section className="blurb">
       <h2>About</h2>
       <p>
         Hi, I'm Kale-ab, a Computer Scientist based in Johannesburg. I am
@@ -41,7 +41,7 @@ const Nav = () => (
           )}
         </li>
       </ul>
-    </section>
+    </section> */}
 
     <section id="footer">
       <ul className="icons">
