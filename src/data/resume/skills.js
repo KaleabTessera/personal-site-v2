@@ -3,276 +3,164 @@
 // TODO: Add Althetic Skills, Office Skills (?)
 export const categories = [
   {
-    name: 'Data Science',
-    color: '#515dd4',
-  }, {
-    name: 'Databases',
-    color: '#3896e2',
-  }, {
-    name: 'Design',
-    color: '#747fff',
-  }, {
-    name: 'Frameworks',
-    color: '#64cb7b',
-  }, {
-    name: 'Javascript',
-    color: '#d75858',
-  }, {
-    name: 'Languages',
-    color: '#6968b3',
-  }, {
-    name: 'Machine Learning',
-    color: '#e47272',
-  }, {
-    name: 'Other',
-    color: '#c3423f',
-  }, {
-    name: 'Python',
-    color: '#37b1f5',
-  }, {
-    name: 'Tools',
-    color: '#40494e',
-  }, {
-    name: 'Web Development',
-    color: '#cc7b94',
+    name: "Data Science",
+    color: "#515dd4"
   },
+  {
+    name: "Databases",
+    color: "#3896e2"
+  },
+  {
+    name: "Frameworks",
+    color: "#64cb7b"
+  },
+  {
+    name: "Machine Learning",
+    color: "#e47272"
+  },
+  {
+    name: "Other",
+    color: "#c3423f"
+  },
+  {
+    name: "Tools",
+    color: "#40494e"
+  },
+  {
+    name: "Web Development",
+    color: "#cc7b94"
+  }
 ];
 
 export const skills = [
   {
-    title: 'Javascript',
-    compentency: 5,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  {
-    title: 'Node.JS',
-    compentency: 5,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
-  },
-  {
-    title: 'React',
-    compentency: 4,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
-  },
-  {
-    title: 'Backbone',
+    title: "Javascript",
     compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
+    category: ["Web Development", "Languages"]
   },
   {
-    title: 'Bootstrap',
-    compentency: 5,
-    category: ['Web Development', 'Frameworks'],
-  },
-  {
-    title: 'Bash',
-    compentency: 3,
-    category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'Amazon Web Services',
+    title: "React",
     compentency: 4,
-    category: ['Web Development', 'Tools'],
+    category: ["Web Development", "Frameworks"]
   },
   {
-    title: 'Heroku',
+    title: "Bash",
+    compentency: 3,
+    category: ["Tools", "Languages"]
+  },
+  {
+    title: "Amazon Web Services",
+    compentency: 4,
+    category: ["Tools"]
+  },
+  {
+    title: "MongoDB",
+    compentency: 4,
+    category: ["Web Development", "Databases"]
+  },
+  {
+    title: "Product Development",
+    compentency: 3,
+    category: ["Other"]
+  },
+  {
+    title: "Data Analysis",
+    compentency: 3,
+    category: ["Data Science", "Machine Learning"]
+  },
+  {
+    title: "Git",
+    compentency: 3,
+    category: ["Tools"]
+  },
+  {
+    title: "Numpy",
+    compentency: 4,
+    category: ["Data Science", "Machine Learning"]
+  },
+  {
+    title: "Pytorch",
+    compentency: 4,
+    category: ["Data Science", "Machine Learning"]
+  },
+  {
+    title: "Tensorflow",
     compentency: 2,
-    category: ['Web Development', 'Tools'],
+    category: ["Data Science", "Machine Learning"]
   },
   {
-    title: 'MongoDB',
+    title: "Jupyter",
     compentency: 4,
-    category: ['Web Development', 'Databases'],
+    category: ["Data Science", "Machine Learning"]
   },
   {
-    title: 'ElasticSearch',
-    compentency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'PostgreSQL',
-    compentency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'SQLite3',
+    title: "Python",
     compentency: 4,
-    category: ['Web Development', 'Databases'],
+    category: ["Languages"]
   },
   {
-    title: 'Redis',
+    title: "C++",
     compentency: 3,
-    category: ['Web Development', 'Databases'],
+    category: ["Languages"]
   },
   {
-    title: 'Matlab',
+    title: "Visualization",
     compentency: 3,
-    category: ['Data Science', 'Machine Learning', 'Languages'],
+    category: ["Data Science"]
   },
   {
-    title: 'Julia',
+    title: "Pandas",
+    compentency: 3,
+    category: ["Data Science"]
+  },
+  {
+    title: "Matplotib",
     compentency: 4,
-    category: ['Data Science', 'Machine Learning'],
+    category: ["Data Science"]
   },
   {
-    title: 'Data Mining',
-    compentency: 3,
-    category: ['Data Science', 'Machine Learning'],
-  },
-  {
-    title: 'Express.JS',
-    compentency: 5,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
-  },
-  {
-    title: 'Koa',
-    compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
-  },
-  {
-    title: 'D3',
-    compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Design', 'Javascript'],
-  },
-  {
-    title: 'Flask',
+    title: "Scikit-Lean",
     compentency: 4,
-    category: ['Web Development', 'Frameworks', 'Python'],
+    category: ["Data Science"]
   },
   {
-    title: 'Product Development',
+    title: "Docker",
     compentency: 3,
-    category: ['Other'],
+    category: ["Data Science"]
   },
   {
-    title: 'Data Analysis',
+    title: "Java",
+    compentency: 3.5,
+    category: ["Languages"]
+  },
+  {
+    title: "C#",
+    compentency: 3.5,
+    category: ["Languages"]
+  },
+  {
+    title: "Spring Boot",
     compentency: 3,
-    category: ['Data Science', 'Machine Learning'],
+    category: ["Frameworks"]
   },
   {
-    title: 'Mercurial',
+    title: "Dotnet",
     compentency: 3,
-    category: ['Tools'],
+    category: ["Frameworks"]
   },
   {
-    title: 'Git',
+    title: "Dotnet core",
     compentency: 3,
-    category: ['Tools'],
+    category: ["Frameworks"]
   },
   {
-    title: 'Arc',
+    title: "Linux",
+    compentency: 4,
+    category: ["Other"]
+  },
+  {
+    title: "Sql Sever",
     compentency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Numpy',
-    compentency: 3,
-    category: ['Data Science', 'Machine Learning', 'Python'],
-  },
-  {
-    title: 'Caffe',
-    compentency: 4,
-    category: ['Machine Learning'],
-  },
-  {
-    title: 'Tensorflow',
-    compentency: 4,
-    category: ['Data Science', 'Machine Learning', 'Python'],
-  },
-  {
-    title: 'Jupyter',
-    compentency: 4,
-    category: ['Data Science', 'Machine Learning', 'Python'],
-  },
-  {
-    title: 'Typescript',
-    compentency: 3,
-    category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'HTML',
-    compentency: 5,
-    category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'CSS',
-    compentency: 5,
-    category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'SASS/SCSS',
-    compentency: 5,
-    category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'LESS',
-    compentency: 5,
-    category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'Python',
-    compentency: 5,
-    category: ['Languages', 'Python'],
-
-  },
-  {
-    title: 'C++',
-    compentency: 3,
-    category: ['Languages'],
-  },
-  {
-    title: 'Photoshop',
-    compentency: 3,
-    category: ['Design'],
-  },
-  {
-    title: 'Lightroom',
-    compentency: 5,
-    category: ['Design'],
-  },
-  {
-    title: 'InDesign',
-    compentency: 2,
-    category: ['Design'],
-  },
-  {
-    title: 'Wireframing',
-    compentency: 4,
-    category: ['Design', 'Web Development'],
-  },
-  {
-    title: 'Keras',
-    compentency: 4,
-    category: ['Machine Learning', 'Python'],
-  },
-  {
-    title: 'Visualization',
-    compentency: 4,
-    category: ['Data Science', 'Javascript'],
-  },
-  {
-    title: 'GraphQL',
-    compentency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'Pandas',
-    compentency: 4,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Matplotib',
-    compentency: 4,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Scikit-Lean',
-    compentency: 4,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Pylint',
-    compentency: 4,
-    category: ['Python'],
-  },
+    category: ["Databases"]
+  }
 ];
