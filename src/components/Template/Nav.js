@@ -11,20 +11,22 @@ const Nav = () => (
       <Link to="/" className="logo">
         <img src="/images/me_icon.jpg" alt="" />
       </Link>
-      <div>
+      <header>
         <h2>Kale-ab Tessera</h2>
         <p>
           <a href="mailto:kaleabtessera@gmail.com">kaleabtessera@gmail.com</a>
         </p>
-      </div>
+      </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Kale-ab. I'm a Johannesburg based Machine Learning Engineer
-        and Software Developer. I am passionate about technology and how it can
-        be used to help the African continent.
+        Hi, I'm Kale-ab, a Computer Scientist based in Johannesburg. I am
+        interested in Software Engineering, Machine learning and Artificial
+        Intelligence. <br />
+        <br />I am also passionate about technology and how it can be used to
+        help the African continent.
       </p>
       <ul className="actions">
         <li>

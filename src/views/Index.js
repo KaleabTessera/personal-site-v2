@@ -10,24 +10,21 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">About this site</Link>
+            <Link to="/">Welcome</Link>
           </h2>
           <p>A beautiful, responsive, react app written with ES2016.</p>
         </div>
       </header>
       <p>
-        {" "}
-        Welcome to my website. Please feel free to read more{" "}
-        <Link to="/about">about me</Link>, or you can check out my{" "}
-        <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{" "}
-        view <Link to="/stats">site statistics</Link>, or{" "}
+        Hi, I'm Kale-ab, a Computer Scientist based in Johannesburg. I am
+        interested in Software Engineering, Machine learning and Artificial
+        Intelligence. I am also passionate about technology and how it can be
+        used to help the African continent. <br /> <br />
+        Please feel free to read more <Link to="/about">about me</Link>, or you
+        can check out my <Link to="/resume">resume</Link>,{" "}
+        <Link to="/projects">projects</Link>, or{" "}
         <Link to="/contact">contact</Link> me.
       </p>
-      {/* <p>
-        {" "}
-        Source available{" "}
-        <a href="https://github.com/mldangelo/mldangelo">here</a>.
-      </p> */}
     </article>
   </Main>
 );
