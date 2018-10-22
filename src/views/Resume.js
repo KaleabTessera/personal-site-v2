@@ -36,7 +36,7 @@ const Resume = () => (
         Resume
       </NavLink>
       <Skills skills={skills} categories={categories} />
-      <Courses data={courses} />
+      {/* <Courses data={courses} /> */}
       <References />
     </article>
   </Main>
