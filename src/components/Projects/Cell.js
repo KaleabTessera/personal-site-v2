@@ -5,14 +5,11 @@ import PropTypes from "prop-types";
 const Cell = props => (
   <div className="cell-container">
     <article className="mini-post">
-      <div>
+      <header>
         <h3>
           <a href={props.data.link}>{props.data.title}</a>
         </h3>
-        <time className="published">
-          {/* {dayjs(props.data.date).format("MMMM, YYYY")} */}
-        </time>
-      </div>
+      </header>
       <a href={props.data.link} className="image">
         <img src={props.data.image} alt="" />
       </a>
