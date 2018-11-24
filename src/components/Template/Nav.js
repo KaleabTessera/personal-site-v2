@@ -9,7 +9,7 @@ const Nav = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src="/images/me_icon.jpg" alt="" />
+        <img src="/images/me.jpg" alt="" />
       </Link>
       <header>
         <h2>Kale-ab Tessera</h2>
