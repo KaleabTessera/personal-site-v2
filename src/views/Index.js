@@ -12,7 +12,6 @@ const Index = () => (
           <h2>
             <Link to="/">Welcome</Link>
           </h2>
-          <p>A beautiful, responsive, react app written with ES2016.</p>
         </div>
       </header>
       <p>

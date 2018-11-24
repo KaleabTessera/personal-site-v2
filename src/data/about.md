@@ -12,13 +12,13 @@ I was born in Addis Ababa, Ethiopia and moved to South Africa when I was 4 years
 
 ### Research Interests
 
-- Deep Neural Network Architectures
-- Reinforcement Learning
-- AutoMl
+- Deep Neural Network Architectures.
+- Reinforcement Learning.
+- AutoMl.
 
 ### Personal Interests
 
-- Tennis
-- Chess
-- Mathematics
-- Building things - sometimes using software, other times not.
+- Tennis.
+- Chess.
+- Interesting quantitative problems related to mathematics and statistics. 
+- Building things with software. 
