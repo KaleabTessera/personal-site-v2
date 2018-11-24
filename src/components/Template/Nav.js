@@ -19,14 +19,11 @@ const Nav = () => (
       </header>
     </section>
 
-    {/* <section className="blurb">
+    <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I'm Kale-ab, a Computer Scientist based in Johannesburg. I am
-        interested in Software Engineering, Machine learning and Artificial
-        Intelligence. <br />
-        <br />I am also passionate about technology and how it can be used to
-        help the African continent.
+        Hi, I'm Kale-ab, I like using software to build things, mainly machine learning related. <br /><br />
+        {/* I am also passionate about technology and how it can be used to help the African continent. */}
       </p>
       <ul className="actions">
         <li>
@@ -41,7 +38,7 @@ const Nav = () => (
           )}
         </li>
       </ul>
-    </section> */}
+    </section>
 
     <section id="footer">
       <ul className="icons">
