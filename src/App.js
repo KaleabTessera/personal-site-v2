@@ -36,8 +36,8 @@ class App extends Component {
             render={() => (path !== "/" ? <Redirect to={path} /> : <Index />)}
           />
           <Route path="/about" component={About} />
-          <Route path="/projects" component={Projects} />
-          <Route path="/stats" component={Stats} />
+          {/* <Route path="/projects" component={Projects} /> */}
+          {/* <Route path="/stats" component={Stats} /> */}
           <Route path="/contact" component={Contact} />
           <Route path="/resume" component={Resume} />
           {/* Only useful in development mode */}

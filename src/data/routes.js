@@ -12,14 +12,14 @@ const data = [
     path: "/resume",
     label: "Resume"
   },
-  {
-    path: "/projects",
-    label: "Projects"
-  },
-  {
-    path: "/stats",
-    label: "Stats"
-  },
+  // {
+  //   path: "/projects",
+  //   label: "Projects"
+  // },
+  // {
+  //   path: "/stats",
+  //   label: "Stats"
+  // },
   {
     path: "/contact",
     label: "Contact"
