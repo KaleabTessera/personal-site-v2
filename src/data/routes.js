@@ -12,10 +12,10 @@ const data = [
     path: "/resume",
     label: "Resume"
   },
-  // {
-  //   path: "/projects",
-  //   label: "Projects"
-  // },
+  {
+    path: "/projects",
+    label: "Projects"
+  },
   // {
   //   path: "/stats",
   //   label: "Stats"
