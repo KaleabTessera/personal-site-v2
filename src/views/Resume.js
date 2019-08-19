@@ -16,12 +16,12 @@ const sections = ["Skills", "Courses", "References"];
 
 const Resume = () => (
   <Main>
-    <Helmet title="Resume" />
+    <Helmet title="Skills and Resumé" />
     <article className="post" id="resume">
       <header>
         <div className="title">
           <h2>
-            <Link to="/resume">Resume</Link>
+            <Link to="/resume">Resumé</Link>
           </h2>
           <div className="link-container">
             {sections.map(sec => (
@@ -33,7 +33,7 @@ const Resume = () => (
         </div>
       </header>
       <NavLink to={"cv_latest.pdf"} target="_blank" className="nav-link">
-        Resume
+        Resumé
       </NavLink>
       <Skills skills={skills} categories={categories} />
       {/* <Courses data={courses} /> */}

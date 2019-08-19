@@ -10,7 +10,7 @@ const data = [
   },
   {
     path: "/resume",
-    label: "Resume"
+    label: "Skills and Resumé"
   },
   {
     path: "/projects",
