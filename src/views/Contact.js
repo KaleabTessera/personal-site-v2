@@ -85,19 +85,7 @@ class Contact extends Component {
           </header>
           <div className="email-at">
             <p>Feel free to get in touch. You can email me at: </p>
-            <div
-              className="inline-container"
-              style={validateText(message) ? {} : { color: "red" }}
-            >
-              <a
-                href={
-                  validateText(message)
-                    ? `mailto:${message}@kaleabtessera.com`
-                    : ""
-                }
-              >
-                <span>{message}</span>
-                <span>@kaleabtessera.com</span>
+                <span>kaleabtessera@gmail.com</span>
               </a>
             </div>
           </div>
