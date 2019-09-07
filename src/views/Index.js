@@ -15,10 +15,11 @@ const Index = () => (
         </div>
       </header>
       <p>
-        Hi, I'm Kale-ab, a Computer Scientist based in Johannesburg. I am
-        interested in Software Engineering, Machine learning and Artificial
-        Intelligence. I am also passionate about technology and how it can be
-        used to help the African continent. <br /> <br />
+        Hi, I'm Kale-ab, a Computer Scientist based in Johannesburg, South
+        Africa. I am interested in using Machine learning and Artificial
+        Intelligence to solve really difficult problems. I am also passionate
+        about technology and how it can be used to help the African continent.{" "}
+        <br /> <br />
         Please feel free to read more <Link to="/about">about me</Link>, or you
         can check out my <Link to="/resume">resumé</Link>,{" "}
         <Link to="/projects">projects</Link>, or{" "}

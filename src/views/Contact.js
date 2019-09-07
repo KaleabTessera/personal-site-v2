@@ -85,10 +85,11 @@ class Contact extends Component {
           </header>
           <div className="email-at">
             <p>Feel free to get in touch. You can email me at: </p>
-                <span>kaleabtessera@gmail.com</span>
-              </a>
-            </div>
+            <a href={`mailto:kaleabtessera@gmail.com`}>
+              <span>kaleabtessera@gmail.com</span>
+            </a>
           </div>
+          {/* </div> */}
           <ul className="icons">
             {data.map(s => (
               <li key={s.label}>
