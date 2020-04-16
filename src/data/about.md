@@ -1,6 +1,6 @@
 ### Intro
 
-Hi, my name is Kale-ab. I am a computer scientist working as a Machine Learning Engineer by day and a Machine Learning Researcher by night. I am interested in using my toolbox of programming, machine learning knowledge and analytical skills to solve really difficult problems. These problems can be theoretical - theory of deep learning or practical - problems related to social good and that have a positive impact on people's lives.
+Hi, I am Kale-ab, a computer scientist working as a Machine Learning Engineer by day and a Machine Learning Researcher by night. My professional interests are using my toolbox of programming, machine learning, statistics and probability to solve really difficult problems. These problems can be theoretical or practical in nature.
 <br/> <br/>
 
 ### Background
@@ -8,13 +8,10 @@ I was born in Addis Ababa, Ethiopia and moved to South Africa when I was 4 years
 <br/> <br/>
 
 ### Research Interests
-- Neural Architecture Search.
-- Theory of Deep Learning.
-- Reinforcement Learning.
-<br/> <br/>
+- Can be found [here](https://www.kaleabtessera.com/research).
 
 ### Personal Interests
-- Tennis.
 - Chess.
 - Interesting quantitative problems related to mathematics and statistics. 
 - Building things with software. 
+- Tennis and football. 

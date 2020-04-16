@@ -22,7 +22,7 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I'm Kale-ab, I like using software to build things, mainly machine learning related. <br /><br />
+        Hi, I'm Kale-ab, I am Machine Learning Engineer and Researcher.<br /><br />
         {/* I am also passionate about technology and how it can be used to help the African continent. */}
       </p>
       <ul className="actions">
