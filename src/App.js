@@ -12,6 +12,8 @@ import Research from "./views/Research";
 import Contact from "./views/Contact";
 import NotFound from "./views/NotFound";
 
+import ReactGA from "react-ga";
+import history from "./History";
 
 // All of our CSS
 import "./css/App.scss";
@@ -24,6 +26,13 @@ if (params.search("path=") > -1) {
   // check if exists
   path = params.substr(1 + "path=".length).trim();
 }
+
+ReactGA.initialize('UA-163842631-1'); 
+
+ReactGA.pageview(window.location.pathname + window.location.search);
+history.listen(location => {
+  ReactGA.pageview(location.pathname + location.search);
+});
 
 class App extends Component {
   render() {

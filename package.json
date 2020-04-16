@@ -50,7 +50,7 @@
     "react-burger-menu": "^2.5.3",
     "react-dev-utils": "^6.0.4",
     "react-dom": "^16.5.2",
-    "react-ga": "^2.5.3",
+    "react-ga": "^2.7.0",
     "react-helmet": "^5.2.0",
     "react-markdown": "^4.0.2",
     "react-router": "^4.3.1",
