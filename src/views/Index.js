@@ -21,7 +21,7 @@ const Index = () => (
         about technology and how it can be used to help the African continent.{" "}
         <br /> <br />
         Please feel free to read more <Link to="/about">about me</Link>, or you
-        can check out my <Link to="/resume">resumé</Link>,{" "}
+        can check out my <Link to="/research">research</Link>,<Link to="/resume">resumé</Link>,
         <Link to="/projects">projects</Link>, or{" "}
         <Link to="/contact">contact</Link> me.
       </p>

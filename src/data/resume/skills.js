@@ -3,7 +3,7 @@
 // TODO: Add Althetic Skills, Office Skills (?)
 export const categories = [
   {
-    name: "Data Science",
+    name: "Machine Learning and Data Science",
     color: "#515dd4"
   },
   {
@@ -13,14 +13,6 @@ export const categories = [
   {
     name: "Frameworks",
     color: "#64cb7b"
-  },
-  {
-    name: "Machine Learning",
-    color: "#e47272"
-  },
-  {
-    name: "Other",
-    color: "#c3423f"
   },
   {
     name: "Tools",
@@ -40,12 +32,12 @@ export const skills = [
   },
   {
     title: "React",
-    compentency: 4,
+    compentency: 3.5,
     category: ["Web Development", "Frameworks"]
   },
   {
     title: "Bash",
-    compentency: 3,
+    compentency: 3.5,
     category: ["Tools", "Languages"]
   },
   {
@@ -55,43 +47,38 @@ export const skills = [
   },
   {
     title: "MongoDB",
-    compentency: 4,
+    compentency: 3,
     category: ["Web Development", "Databases"]
   },
   {
-    title: "Product Development",
-    compentency: 3,
-    category: ["Other"]
-  },
-  {
-    title: "Data Analysis",
-    compentency: 3,
-    category: ["Data Science", "Machine Learning"]
-  },
-  {
     title: "Git",
-    compentency: 3,
+    compentency: 4,
     category: ["Tools"]
   },
   {
     title: "Numpy",
     compentency: 4,
-    category: ["Data Science", "Machine Learning"]
+    category: ["Machine Learning and Data Science"]
   },
   {
     title: "Pytorch",
     compentency: 4,
-    category: ["Data Science", "Machine Learning"]
+    category: ["Machine Learning and Data Science"]
   },
   {
     title: "Tensorflow",
-    compentency: 2,
-    category: ["Data Science", "Machine Learning"]
+    compentency: 2.5,
+    category: ["Machine Learning and Data Science"]
+  },
+  {
+    title: "Keras",
+    compentency: 3.5,
+    category: ["Machine Learning and Data Science"]
   },
   {
     title: "Jupyter",
     compentency: 4,
-    category: ["Data Science", "Machine Learning"]
+    category: ["Machine Learning and Data Science"]
   },
   {
     title: "Python",
@@ -104,63 +91,63 @@ export const skills = [
     category: ["Languages"]
   },
   {
-    title: "Visualization",
-    compentency: 3,
-    category: ["Data Science"]
-  },
-  {
-    title: "Pandas",
-    compentency: 3,
-    category: ["Data Science"]
-  },
-  {
     title: "Matplotib",
     compentency: 4,
-    category: ["Data Science"]
+    category: ["Machine Learning and Data Science"]
   },
   {
     title: "Scikit-Lean",
     compentency: 4,
-    category: ["Data Science"]
+    category: ["Machine Learning and Data Science"]
   },
   {
     title: "Docker",
-    compentency: 3,
-    category: ["Data Science"]
+    compentency: 3.5,
+    category: ["Machine Learning and Data Science"]
   },
   {
     title: "Java",
-    compentency: 3.5,
+    compentency: 2,
     category: ["Languages"]
   },
   {
     title: "C#",
-    compentency: 3.5,
+    compentency: 2,
     category: ["Languages"]
   },
   {
     title: "Spring Boot",
-    compentency: 3,
+    compentency: 2,
     category: ["Frameworks"]
   },
   {
     title: "Dotnet",
-    compentency: 3,
+    compentency: 2,
     category: ["Frameworks"]
   },
   {
     title: "Dotnet core",
+    compentency: 2,
+    category: ["Frameworks"]
+  },
+  {
+    title: "Django",
     compentency: 3,
+    category: ["Frameworks"]
+  },
+  {
+    title: "Flask",
+    compentency: 4,
     category: ["Frameworks"]
   },
   {
     title: "Linux",
     compentency: 4,
-    category: ["Other"]
+    category: ["Tools"]
   },
   {
-    title: "Sql Sever",
-    compentency: 3,
+    title: "Sql Sever / PostgreSQL / MySQL",
+    compentency: 3.5,
     category: ["Databases"]
   }
 ];
