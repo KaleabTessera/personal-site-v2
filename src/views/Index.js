@@ -17,7 +17,7 @@ const Index = () => (
       <p>
         Hi, I'm Kale-ab, a Computer Scientist based in Johannesburg, South
         Africa. I am interested in using Machine learning and Artificial
-        Intelligence to solve really difficult problems. I am also passionate
+        Intelligence to solve challenging problems. I am also passionate
         about technology and how it can be used to help the African continent.{" "}
         <br /> <br />
         Please feel free to read more <Link to="/about">about me</Link>, or you

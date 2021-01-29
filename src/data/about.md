@@ -1,6 +1,6 @@
 ### Intro
 
-Hi, I am Kale-ab, a computer scientist working as a Machine Learning Engineer by day and a Machine Learning Researcher by night. My professional interests are using my toolbox of programming, machine learning, statistics and probability to solve really difficult problems. These problems can be theoretical or practical in nature.
+Hi, I am Kale-ab, a computer scientist working as a Machine Learning Engineer by day and a Machine Learning Researcher by night. My professional interests are using my toolbox of programming, machine learning, statistics and probability to solve challenging problems. These problems can be theoretical or practical in nature.
 <br/> <br/>
 
 ### Background
