@@ -32,7 +32,7 @@ const Resume = () => (
           </div>
         </div>
       </header>
-      <NavLink to={"cv_latest_ml.pdf"} target="_blank" className="nav-link">
+      <NavLink to={"cv_latest.pdf"} target="_blank" className="nav-link">
         Resumé
       </NavLink>
       <Skills skills={skills} categories={categories} />
