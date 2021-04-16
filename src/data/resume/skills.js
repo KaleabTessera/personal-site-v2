@@ -1,13 +1,14 @@
-// TODO: How should these be sorted?
-
-// TODO: Add Althetic Skills, Office Skills (?)
 export const categories = [
   {
     name: "Machine Learning and Data Science",
     color: "#515dd4"
   },
   {
-    name: "Databases",
+    name: "Research",
+    color: "#cc7b94"
+  },
+  {
+    name: "Languages",
     color: "#3896e2"
   },
   {
@@ -17,23 +18,19 @@ export const categories = [
   {
     name: "Tools",
     color: "#40494e"
-  },
-  {
-    name: "Web Development",
-    color: "#cc7b94"
   }
 ];
 
 export const skills = [
   {
-    title: "Javascript",
-    compentency: 3,
-    category: ["Web Development", "Languages"]
+    title: "Distributed Computing (Ray and PySpark/Databricks)",
+    compentency: 3.5,
+    category: ["Frameworks"]
   },
   {
-    title: "React",
-    compentency: 3.5,
-    category: ["Web Development", "Frameworks"]
+    title: "Javascript and React",
+    compentency: 2.5,
+    category: ["Languages", "Frameworks"]
   },
   {
     title: "Bash",
@@ -41,14 +38,9 @@ export const skills = [
     category: ["Tools", "Languages"]
   },
   {
-    title: "Amazon Web Services",
-    compentency: 4,
+    title: "Amazon AWS, Google GCP",
+    compentency: 3.5,
     category: ["Tools"]
-  },
-  {
-    title: "MongoDB",
-    compentency: 3,
-    category: ["Web Development", "Databases"]
   },
   {
     title: "Git",
@@ -67,17 +59,12 @@ export const skills = [
   },
   {
     title: "Tensorflow",
-    compentency: 2.5,
+    compentency: 3.5,
     category: ["Machine Learning and Data Science"]
   },
   {
     title: "Keras",
     compentency: 3.5,
-    category: ["Machine Learning and Data Science"]
-  },
-  {
-    title: "Jupyter",
-    compentency: 4,
     category: ["Machine Learning and Data Science"]
   },
   {
@@ -91,12 +78,7 @@ export const skills = [
     category: ["Languages"]
   },
   {
-    title: "Matplotib",
-    compentency: 4,
-    category: ["Machine Learning and Data Science"]
-  },
-  {
-    title: "Scikit-Lean",
+    title: "Scikit-Learn, Pandas, Matplotib and Jupyter Notebook",
     compentency: 4,
     category: ["Machine Learning and Data Science"]
   },
@@ -107,37 +89,17 @@ export const skills = [
   },
   {
     title: "Java",
-    compentency: 2,
+    compentency: 2.5,
     category: ["Languages"]
   },
   {
-    title: "C#",
-    compentency: 2,
+    title: "Reinforcement Learning Environments (OpenAI Gym and Petting Zoo)",
+    compentency: 3.5,
     category: ["Languages"]
   },
   {
-    title: "Spring Boot",
-    compentency: 2,
-    category: ["Frameworks"]
-  },
-  {
-    title: "Dotnet",
-    compentency: 2,
-    category: ["Frameworks"]
-  },
-  {
-    title: "Dotnet core",
-    compentency: 2,
-    category: ["Frameworks"]
-  },
-  {
-    title: "Django",
+    title: "Django and Flask",
     compentency: 3,
-    category: ["Frameworks"]
-  },
-  {
-    title: "Flask",
-    compentency: 4,
     category: ["Frameworks"]
   },
   {
@@ -148,6 +110,17 @@ export const skills = [
   {
     title: "Sql Sever / PostgreSQL / MySQL",
     compentency: 3.5,
-    category: ["Databases"]
+    category: ["Languages"]
+  },
+   {
+    title: "Deep Learning",
+    compentency: 4.5,
+    category: ["Research","Machine Learning and Data Science"]
+  },
+   {
+    title: "Reinforcement Learning",
+    compentency: 4,
+    category: ["Research","Machine Learning and Data Science"]
   }
+  
 ];
