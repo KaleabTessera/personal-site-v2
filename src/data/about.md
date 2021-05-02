@@ -1,6 +1,6 @@
 ### About
 
-I am a Research Engineer based in Johannesburg, South Africa. I am interested in using Machine learning, specifically Deep Learning and Reinforcement Learning to solve challenging problems. I am also passionate about technology and how it can help the African continent. My professional interests are using my toolbox of programming, machine learning, statistics and probability to solve challenging problems. These problems can be theoretical or practical in nature.
+I am a Research Engineer based in Johannesburg, South Africa. I am interested in using Machine learning, specifically Deep Learning and Reinforcement Learning to solve challenging problems. These problems can be theoretical or practical in nature. I use my toolbox of programming, machine learning, statistics, and probability to solve these problems. I am also passionate about technology and how it can help the African continent.
 <br/> <br/>
 
 ### Background
